@@ -30,6 +30,5 @@ C:\Users\DH\Desktop\WebChatManage\WebChatManage\obj\Debug\netcoreapp2.1\WebChatM
 C:\Users\DH\Desktop\WebChatManage\WebChatManage\obj\Debug\netcoreapp2.1\WebChatManage.pdb
 C:\Users\DH\Desktop\WebChatManage\WebChatManage\obj\Debug\netcoreapp2.1\WebChatManage.csproj.CopyComplete
 C:\Users\DH\Desktop\WebChatManage\WebChatManage\obj\Debug\netcoreapp2.1\Razor\Views\Web_BatchManage\Index.g.cshtml.cs
-C:\Users\DH\Desktop\WebChatManage\WebChatManage\obj\Debug\netcoreapp2.1\WebChatManage.csprojAssemblyReference.cache
 C:\Users\DH\Desktop\WebChatManage\WebChatManage\obj\Debug\netcoreapp2.1\Razor\Views\Web_BasicFacts\Index.g.cshtml.cs
 C:\Users\DH\Desktop\WebChatManage\WebChatManage\obj\Debug\netcoreapp2.1\Razor\Views\Web_IpManage\Index.g.cshtml.cs

@@ -44,7 +44,7 @@
                 <!-- mini logo for sidebar mini 50x50 pixels -->
                 <span class="logo-mini"><b>A</b>LT</span>
                 <!-- logo for regular state and mobile devices -->
-                <span class="logo-lg"><b>Admin</b>LTE</span>
+                <span class="logo-lg">微信群控管理</span>
             </a>
             <!-- Header Navbar: style can be found in header.less -->
             <nav class="navbar navbar-static-top">
@@ -334,7 +334,7 @@
                 <!-- sidebar menu: : style can be found in sidebar.less -->
                 <ul class="sidebar-menu" data-widget="tree">
 
-                    <li class="active treeview"><a href="https://www.baidu.com"><i class="fa fa-book"></i> <span>基本概况</span></a></li>
+                    <li><a href="@Url.Action("index","Web_BasicFacts")"><i class="fa fa-book"></i> <span>基本概况</span></a></li>
                     <li class="treeview">
                         <a href="#">
                             <i class="fa fa-edit"></i> <span>资源管理</span>
@@ -343,11 +343,11 @@
                             </span>
                         </a>
                         <ul class="treeview-menu">
-                            <li><a href="pages/forms/general.html"><i class="fa fa-circle-o"></i>IP管理</a></li>
+                            <li><a href="@Url.Action("index","Web_IpManage")"><i class="fa fa-circle-o"></i>IP管理</a></li>
                         </ul>
                     </li>
-                    <li class="treeview">
-                        <a href="https://www.baidu.com">
+                    <li>
+                        <a href="@Url.Action("index","Web_BatchManage")">
                             <i class="fa fa-edit"></i> <span>批次管理</span>
                         </a>
                     </li>
@@ -378,7 +378,7 @@
             <div class="pull-right hidden-xs">
                 <b>Version</b> 2.4.18
             </div>
-            <strong>Copyright &copy; 2014-2019 <a href="https://adminlte.io">AdminLTE</a>.</strong> All rights
+            <strong>Copyright &copy; 2014-2019 <a href="https://adminlte.io">陕西西安</a>.</strong> All rights
             reserved.
         </footer>
         <!-- Control Sidebar -->
